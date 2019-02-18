@@ -86,6 +86,12 @@ html {
   color: #7fcf80;
 }
 
+.discount {
+	color: #fc2727;
+	font-weight: bold;
+
+}
+
 /* Footer */
 .site-footer {
   padding: 1rem;
