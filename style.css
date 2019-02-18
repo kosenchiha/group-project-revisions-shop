@@ -92,3 +92,8 @@ html {
   font-size: 12px;
   text-align: center;
 }
+
+#checkout{
+	border: 3px solid  	#32CD32;
+	border-style:outset;
+}
